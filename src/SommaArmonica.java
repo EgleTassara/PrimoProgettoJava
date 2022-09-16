@@ -1,5 +1,7 @@
 public class SommaArmonica {
 
+    /*Scrivere un programma che, dato un intero n in input, calcoli la somma di una serie armonica fino a n*/
+
     public static void main(String[] args) {
         System.out.println(harmonicSum(0) == (0));
         System.out.println(harmonicSum(1) == (1));

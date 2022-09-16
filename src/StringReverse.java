@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class StringReverse {
 
+    /*Scrivere un metodo che, data una stringa s in input, ne stampi il reverse, ossia la stringa al contrario.
+    Esempio: data la stringa «ciao», dovrà stampare «oaic».*/
+
     public static void main(String[] args) {
 
         Scanner myObj = new Scanner(System.in);

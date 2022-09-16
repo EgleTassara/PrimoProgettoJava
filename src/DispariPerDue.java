@@ -3,6 +3,9 @@ import java.util.Random;
 
 public class DispariPerDue {
 
+    /*Scrivete una funzione che dato un array di valori ne restituisce una copia dove i numeri dispari sono stati
+    moltiplicati per 2.*/
+
     public static void main(String[] args) {
 
         // generare 99 numeri casuali

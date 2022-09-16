@@ -1,6 +1,6 @@
-import java.util.ArrayList;
-
 public class NumeriPrimi {
+
+    /*Scrivere un metodo che, dato in input un intero a, ritorni true se il numero è primo, false altrimenti.*/
 
     public static void main(String[] args) {
 

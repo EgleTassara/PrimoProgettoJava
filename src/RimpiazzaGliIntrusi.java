@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
-public class Esercizio4 {
+public class RimpiazzaGliIntrusi {
+
+    /*Date tre stringhe a, b e c in input, stampare c dopo aver rimpiazzato, all’interno di c, ogni occorrenza
+    compresa tra due spazi di a con b. Ad esempio, date in input le stringhe «a», «b», «a abc d», stampare a
+    video «a bbc d».*/
 
     public static void main(String[] args) {
 

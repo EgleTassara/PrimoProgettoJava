@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class contaOccorrenzeInStringa {
 
+    /*Scrivere un metodo che, dato un char a e una stringa b, stampa il numero di occorrenze di a in b.*/
+
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter character a:");

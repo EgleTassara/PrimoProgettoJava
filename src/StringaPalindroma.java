@@ -1,5 +1,8 @@
 public class StringaPalindroma {
 
+    /*Scrivere un programma che, data in input una stringa s, restituisca true se s è palindroma, false altrimenti
+    Suggerimento: inserite il codice della vostra soluzione all’interno del metodo*/
+
     public static void main(String[] args) {
         System.out.println(isPalindrome("c"));
         System.out.println(isPalindrome("ciic"));

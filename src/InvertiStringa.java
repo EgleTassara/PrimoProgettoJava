@@ -2,6 +2,10 @@ import java.util.Scanner;
 
 public class InvertiStringa {
 
+    /*Data una stringa, stampare la stessa stringa invertendone il contenuto a partire dal primo spazio, ad esempio
+    data la stringa «come stai» stampare a video «stai come». Potete dare per assunto che la stringa conterrà sempre
+    un solo spazio.*/
+
     public static void main(String[] arg) {
 
           Scanner scanner = new Scanner(System.in);
